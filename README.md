@@ -42,7 +42,7 @@ First, install Jest with ```npm install --save-dev jest``` and then run ```npm r
 For additional information please contact me via GitHub at [https://github.com/malicea0783](https://github.com/malicea0783) or via email at [malicea0783@gmail.com](mailto:malicea0783@gmail.com?subject=[GitHub]%Team%Profile%Generator).
 
 ## Video Walkthrough
-![Video Walkthrough Link](https://drive.google.com/file/d/1ugXcgOfb-zl5LSQnh4CY9tbot5Um5eNZ/view)
+[Video Walkthrough Link](https://drive.google.com/file/d/1ugXcgOfb-zl5LSQnh4CY9tbot5Um5eNZ/view)
 
 ## Screen Shot
 ![Screen Shot](./images/team-profile-generator.png)
