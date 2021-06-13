@@ -35,7 +35,7 @@ This is an open-source package that anyone can contribute to.
 
 ## Tests
 
-First, instal Jest with ```npm install --save-dev jest``` and then run ```npm run test``` in the command line to run all four tests at once, or ```npm run test [file name]``` for imdividual tests.
+First, install Jest with ```npm install --save-dev jest``` and then run ```npm run test``` in the command line to run all four tests at once, or ```npm run test [file name]``` for imdividual tests.
 
 ## Questions
 
@@ -45,4 +45,4 @@ For additional information please contact me via GitHub at [https://github.com/m
 ![Video Walkthrough Link](https://drive.google.com/file/d/1ugXcgOfb-zl5LSQnh4CY9tbot5Um5eNZ/view)
 
 ## Screen Shot
-![Screen Shot](./images/team/profile/generator.png)
+![Screen Shot](./images/team-profile-generator.png)
