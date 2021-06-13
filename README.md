@@ -15,6 +15,7 @@ This command-line application generates a polished and responsive HTML file for 
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Video Walkthrough](#Video%Walkthrough)
+* [Screen Shot](#Screen%Shot)
 
 ## Installation
 
@@ -41,3 +42,7 @@ First, instal Jest with ```npm install --save-dev jest``` and then run ```npm ru
 For additional information please contact me via GitHub at [https://github.com/malicea0783](https://github.com/malicea0783) or via email at [malicea0783@gmail.com](mailto:malicea0783@gmail.com?subject=[GitHub]%Team%Profile%Generator).
 
 ## Video Walkthrough
+![Video Walkthrough Link](https://drive.google.com/file/d/1ugXcgOfb-zl5LSQnh4CY9tbot5Um5eNZ/view)
+
+## Screen Shot
+![Screen Shot](./images/team/profile/generator.png)
